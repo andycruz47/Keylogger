@@ -1,0 +1,6 @@
+Arquitectura:                        x86_64
+Linux
+sandro-X540UP
+190.42.66.20
+sandro
+
